@@ -13,7 +13,7 @@ I will dedicate this space to share course and event projects that I am doing, a
 ```js
   const amorim-dev = {
      pronouns: "She" | "Her",
-     code: [Javascript, NunjuncksSQL, PostgreSQL, HTML, CSS],
+     code: [Javascript, NunjuncksSQL, PostgreSQL, SQL, HTML, CSS],
      tools: [React, Docker, Node.js, JSON],
   }
 ```
