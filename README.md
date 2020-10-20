@@ -13,8 +13,8 @@ I will dedicate this space to share course and event projects that I am doing, a
 ```js
   const amorim-dev = {
      pronouns: "She" | "Her",
-     code: [Javascript, HTML, CSS, NunjuncksSQL, PostgreSQL],
-     tools: [Node.js, React, Docker, JSON],
+     code: [Javascript, NunjuncksSQL, PostgreSQL, HTML, CSS],
+     tools: [React, Docker, Node.js, JSON],
   }
 ```
 
