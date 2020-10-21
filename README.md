@@ -1,14 +1,14 @@
 
 ![Take a look at my Canva design!](https://user-images.githubusercontent.com/59603723/96593169-91da7a00-12bf-11eb-9fb6-97667dc21979.png)
 
-### About me
+### About me :nerd_face: :rainbow_flag:  :heart: :sushi: :chocolate_bar: :coffee:
 
-I am Brazilian and I live in Buenos Aires, Argentina. I have been passionate about IT for many years, but I don't know why crazy in my head I decided to study International Relations. After 4 years studying this area, I realized that: what I loved was always in front of me, and... why I never considered studying it? Now, here I am! Dedicating myself to learning every day a little more of that huge world.  
+I am Brazilian and I live in Buenos Aires, Argentina. I have been passionate about IT for many years, but I don't know why crazy in my head I decided to study International Relations. After 4 years studying this area, I realized that: what I loved was always in front of me, and, why I never considered studying it? Now, here I am! Dedicating myself to learning every day a little more of that huge world.  
 
 
 I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, rafactor what is possible, and give a little touch of mine, and also to share my own models. I hope you like that and can learn and share some experiences. 
 
-### Technologies that I'm learning
+### Technologies that I'm learning :computer: :
 
 ```js
   const amorim-dev = {
@@ -18,7 +18,7 @@ I will dedicate this space to share course and event projects that I am doing, a
   }
 ```
 
-### Reach me:
+### Reach me :female_detective::
 
 <p>
   <a href="http://www.linkedin.com/in/amorimbiadev">
