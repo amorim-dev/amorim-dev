@@ -18,7 +18,7 @@ I will dedicate this space to share course and event projects that I am doing, a
 ```js
   const amorim-dev = {
      pronouns: "She" | "Her",
-     code: [Javascript, HTML, CSS, Dart(Flutter)],
+     code: [Javascript, HTML, CSS, Flutter],
   }
 ```
 
