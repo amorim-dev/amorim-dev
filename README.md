@@ -16,11 +16,9 @@ I will dedicate this space to share course and event projects that I am doing, a
 ### Technologies that I'm learning :computer: :
 
 ```Py
-  def amorim-dev:
-     pronouns: "She" | "Her",
-     code: [Python, SQL],
-     Tools: [Power BI, Git/github]
-  }
+  def name(Bianca Amorim):
+     code = [python, SQL],
+     tools = [git, github, Power BI]
 ```
 
 
