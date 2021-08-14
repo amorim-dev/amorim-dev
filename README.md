@@ -15,10 +15,11 @@ I will dedicate this space to share course and event projects that I am doing, a
 
 ### Technologies that I'm learning :computer: :
 
-```js
-  const amorim-dev = {
+```Py
+  def amorim-dev:
      pronouns: "She" | "Her",
-     code: [Javascript, HTML, CSS, C++],
+     code: [Python, SQL],
+     Tools: [Power BI, Git/github]
   }
 ```
 
