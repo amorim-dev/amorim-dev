@@ -40,8 +40,4 @@ data_Analyst()
    <a href="https://mobile.twitter.com/dev_amorim">
     <img src="https://user-images.githubusercontent.com/59603723/96600833-c18d8000-12c7-11eb-9d07-22f81040184f.png" alt="Bianca Amorim's LinkedIn Profile" height="35" width="35">
   </a>
-  
-  <a href="https://medium.com/@amorim.bia.dev">
-    <img src="https://user-images.githubusercontent.com/59603723/96600920-d9650400-12c7-11eb-8dfd-42dc894c9d88.png" alt="Bianca Amorim's Medium Profile" height="37" width="37">
-  </a>
 </p>
