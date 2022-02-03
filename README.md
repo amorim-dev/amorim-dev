@@ -19,7 +19,7 @@ I will dedicate this space to share course and event projects that I am doing, a
 def data_Analyst():
     name = 'Bianca Amorim'
     code = ['python', 'SQL'],
-    tools = ['git', 'github', 'Power BI']
+    tools = ['Power BI', 'git', 'github', 'linux']
     return "My name is %s I am learning los lenguages %s and %s" %(name, code, tools)
 
 data_Analyst()
