@@ -19,7 +19,7 @@ I will dedicate this space to share course and event projects that I am doing, a
 def data_science():
     name = 'Bianca Amorim'
     code = ['python', 'R'],
-    tools = ['Power BI', 'git', 'github', 'GNU/linux','Azure', 'haddop', 'Spark', 'TensorFlow', ]
+    tools = ['Power BI', 'git', 'github', 'GNU/linux','Azure', 'haddop', 'Spark', 'TensorFlow']
     return "My name is %s I am learning %s and %s" %(name, code, tools)
 
 data_science()
