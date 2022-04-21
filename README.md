@@ -3,7 +3,12 @@
 
 ### :nerd_face: About me :rainbow_flag:  :heart: :sushi: :chocolate_bar: :coffee: 
 
-I am Brazilian but I live in Buenos Aires, Argentina. I have been passionate about IT for many years, but I don't know why crazy in my head I decided to study International Relations. After 4 years of studying this area, I realized that: what I loved was always in front of me, and, why I never considered studying it? Now, here I am! Dedicating myself to learning every day a little more about that huge world that is the data science field.  
+I am a lifelong learner who loves to get out of my comfort zone and do my best. 
+
+🚩 Goal: Specialize in Data Science and Machine Learning
+
+🎓  Systems Engineering student at UTN looking for a job opportunity in the Data Science Industry 📚
+
 
 
 I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, refactor what is possible, give a little touch of mine, and also share my own models. I hope you like that and can learn and share some experiences. 
@@ -19,7 +24,7 @@ I will dedicate this space to share course and event projects that I am doing, a
 def data_science():
     name = 'Bianca Amorim'
     code = ['python', 'R'],
-    tools = ['Power BI', 'git', 'github', 'GNU/linux','Azure', 'haddop', 'Spark', 'TensorFlow']
+    tools = ['Power BI', 'git', 'github', 'GNU/linux', 'haddop', 'Spark', 'TensorFlow', 'PyCharm', 'Jupyter notebook']
     return "My name is %s I am learning %s and %s" %(name, code, tools)
 
 data_science()
