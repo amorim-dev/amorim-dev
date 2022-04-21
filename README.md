@@ -9,7 +9,7 @@ I am a lifelong learner who loves to get out of my comfort zone and do my best.
 
 🎓  Systems Engineering student at UTN looking for a job opportunity in the Data Science Industry 📚
 
-
+---
 
 I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, refactor what is possible, give a little touch of mine, and also share my own models. I hope you like that and can learn and share some experiences. 
 
