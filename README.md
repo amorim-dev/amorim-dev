@@ -5,9 +5,9 @@
 
 I am a lifelong learner who loves to get out of my comfort zone and do my best. 
 
-🚩 Goal: Specialize in Data Science and Machine Learning
+:triangular_flag_on_post: Goal: Specialize in Data Science and Machine Learning
 
-🎓  Systems Engineering student at UTN looking for a job opportunity in the Data Science Industry 📚
+:mortar_board:  Systems Engineering student at UTN looking for a job opportunity in the Data Science Industry 📚
 
 ---
 
