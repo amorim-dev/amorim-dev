@@ -1,13 +1,12 @@
 
-![Take a look at my Canva design!](https://user-images.githubusercontent.com/59603723/96593169-91da7a00-12bf-11eb-9fb6-97667dc21979.png)
+![githubImageREADME_DataScientist](https://user-images.githubusercontent.com/59603723/206517698-68b045c6-6a94-47c5-ba88-621609a2c70f.png)
 
-
-### :nerd_face: About me :rainbow_flag:  :heart: :sushi: :chocolate_bar: :coffee: 
+### About me
 
 I am a Data Science student with a passion for programming, machine learning, and storytelling. I am a proactive professional with problem-solving skills, great self-discipline and always looking to improve processes and bring new ideas wherever I work. I have learned several subjects such as python, Power BI, machine learning, and statistics.
 
 
-Experience in Scripting and Business Intelligence:
+### Experience in Scripting and Business Intelligence:
 - Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn) 
 - Microsoft PowerBI (building dashboards)
 - SQL and PostgreSQL
@@ -15,14 +14,14 @@ Experience in Scripting and Business Intelligence:
 - Docker
 - Git - GitHub
 
-:triangular_flag_on_post: I am looking for challenging work where I can aggregate value and develop my skills.
+:triangular_flag_on_post: I am looking for a challenging job where I can aggregate value and develop my skills.
 
 
 ---
 
 I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, refactor what is possible, give a little touch of mine, and also share my own projects. I hope you like that and can learn and share some experiences. 
 
-🤓 I am a lifelong learner who loves to get out of my comfort zone and do my best. 📚 
+🤓 I am a lifelong learner who loves to get out of my comfort zone and do my best. 📚 :coffee: 
 
 
 ### Reach me :female_detective::
