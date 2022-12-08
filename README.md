@@ -5,6 +5,7 @@
 
 I am a Data Science student with a passion for programming, machine learning, and storytelling. I am a proactive professional with problem-solving skills, great self-discipline and always looking to improve processes and bring new ideas wherever I work. I have learned several subjects such as python, Power BI, machine learning, and statistics.
 
+:triangular_flag_on_post: I am looking for a challenging job where I can aggregate value and develop my skills.
 
 ### Experience in Scripting and Business Intelligence
 - Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn) 
@@ -14,14 +15,13 @@ I am a Data Science student with a passion for programming, machine learning, an
 - Docker
 - Git - GitHub
 
-:triangular_flag_on_post: I am looking for a challenging job where I can aggregate value and develop my skills.
 
 
 ---
 
 I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, refactor what is possible, give a little touch of mine, and also share my own projects. I hope you like that and can learn and share some experiences. 
 
-🤓 I am a lifelong learner who loves to get out of my comfort zone and do my best. 📚 :coffee: 
+I am a lifelong learner who loves to get out of my comfort zone and do my best.  :coffee: 🤓
 
 
 ### Reach me :female_detective::
