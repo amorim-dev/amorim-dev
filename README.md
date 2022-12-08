@@ -3,36 +3,27 @@
 
 ### :nerd_face: About me :rainbow_flag:  :heart: :sushi: :chocolate_bar: :coffee: 
 
-I am a lifelong learner who loves to get out of my comfort zone and do my best. 
 
-:triangular_flag_on_post: Goal: Specialize in Data Science and Machine Learning
+:triangular_flag_on_post: I am looking for challenging work where I can aggregate value and develop my skills.
 
-:mortar_board:  Systems Engineering student at UTN looking for a job opportunity in the Data Science Industry 📚
+I am a Data Science student with a passion for programming, machine learning, and storytelling. I am a proactive professional with problem-solving skills, great self-discipline and always looking to improve processes and bring new ideas wherever I work. I have learned several subjects such as python, Power BI, machine learning, and statistics.
+
+
+Experience in Scripting and Business Intelligence:
+- Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn) 
+- Microsoft PowerBI (building dashboards)
+- SQL and PostgreSQL
+- Apache Spark (PySpark)
+- Docker
+- Git - GitHub
+
+
 
 ---
 
-I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, refactor what is possible, give a little touch of mine, and also share my own models. I hope you like that and can learn and share some experiences. 
+I will dedicate this space to share course and event projects that I am doing, as well as to get ready projects, refactor what is possible, give a little touch of mine, and also share my own projects. I hope you like that and can learn and share some experiences. 
 
-
-
-
-
-
-### Technologies that I'm learning :computer: :
-
-```Py
-def data_science():
-    name = 'Bianca Amorim'
-    code = ['python', 'R'],
-    tools = ['Power BI', 'git', 'github', 'GNU/linux', 'VSCode', 'PyCharm', 'Jupyter notebook']
-    return "My name is %s I am learning %s and %s" %(name, code, tools)
-
-data_science()
-```
-
-
-
-
+🤓 I am a lifelong learner who loves to get out of my comfort zone and do my best. 📚 
 
 
 ### Reach me :female_detective::
