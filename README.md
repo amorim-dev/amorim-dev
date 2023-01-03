@@ -3,7 +3,7 @@
 
 ### About me
 
-I am a Data Science student with a passion for programming, machine learning, and storytelling. I am a proactive professional with problem-solving skills, great self-discipline and always looking to improve processes and bring new ideas wherever I work. I have learned several subjects such as python, Power BI, machine learning, and statistics.
+I am a Data Science student with a passion for programming, machine learning, and math. I am a proactive professional with problem-solving skills, great self-discipline and always looking to improve processes and bring new ideas wherever I work. I have learned several subjects such as python, Power BI, machine learning, and statistics.
 
 :triangular_flag_on_post: I am looking for a challenging job where I can aggregate value and develop my skills.
 
