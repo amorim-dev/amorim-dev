@@ -9,11 +9,14 @@ I am a Data Science student with a passion for programming, machine learning, an
 
 ### Experience in Scripting and Business Intelligence
 - Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn) 
-- Microsoft PowerBI, DAX and M language (building dashboards)
+- Microsoft PowerBI, DAX, M language (building dashboards), tableau
 - SQL, MySQL, SQL Server and SAP Hana
 - Apache Spark (PySpark)
 - Git - GitHub
 - Databricks
+- Snowflake
+- Azure Data Factory
+- Azure DevOps
 
 
 ---
